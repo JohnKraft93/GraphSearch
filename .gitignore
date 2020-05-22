@@ -6,7 +6,8 @@
 *.lo
 *.o
 *.obj
-*vcxproj
+*vcxproj.*
+
 
 # Precompiled Headers
 *.gch
@@ -32,4 +33,5 @@
 *.out
 *.app
 
+*.vs
 debug

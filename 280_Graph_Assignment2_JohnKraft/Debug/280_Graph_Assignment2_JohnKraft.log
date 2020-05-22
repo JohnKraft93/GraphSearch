@@ -1,0 +1,6 @@
+﻿  280_Graph_Assignment2_JohnKraft.cpp
+  LinkedListpoints.cpp
+  Generating Code...
+C:\Users\storm\source\repos\280_Graph_Assignment2_JohnKraft\280_Graph_Assignment2_JohnKraft\280_Graph_Assignment2_JohnKraft.cpp(359,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\storm\source\repos\280_Graph_Assignment2_JohnKraft\280_Graph_Assignment2_JohnKraft\LinkedListpoints.cpp(77): warning C4715: 'listofpoints::weight': not all control paths return a value
+  280_Graph_Assignment2_JohnKraft.vcxproj -> C:\Users\storm\source\repos\280_Graph_Assignment2_JohnKraft\Debug\280_Graph_Assignment2_JohnKraft.exe

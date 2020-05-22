@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "280_Graph_Assignment2_JohnKraft", "280_Graph_Assignment2_JohnKraft\280_Graph_Assignment2_JohnKraft.vcxproj", "{CED227EC-1E35-40D3-A01D-2E31EC9B8539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED227EC-1E35-40D3-A01D-2E31EC9B8539}.Debug|x64.ActiveCfg = Debug|x64
+		{CED227EC-1E35-40D3-A01D-2E31EC9B8539}.Debug|x64.Build.0 = Debug|x64
+		{CED227EC-1E35-40D3-A01D-2E31EC9B8539}.Debug|x86.ActiveCfg = Debug|Win32
+		{CED227EC-1E35-40D3-A01D-2E31EC9B8539}.Debug|x86.Build.0 = Debug|Win32
+		{CED227EC-1E35-40D3-A01D-2E31EC9B8539}.Release|x64.ActiveCfg = Release|x64
+		{CED227EC-1E35-40D3-A01D-2E31EC9B8539}.Release|x64.Build.0 = Release|x64
+		{CED227EC-1E35-40D3-A01D-2E31EC9B8539}.Release|x86.ActiveCfg = Release|Win32
+		{CED227EC-1E35-40D3-A01D-2E31EC9B8539}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C5D8C3F-D359-4DB1-A91E-F0D05B191E47}
+	EndGlobalSection
+EndGlobal
